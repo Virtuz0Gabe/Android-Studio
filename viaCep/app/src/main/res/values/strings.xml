@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt_button_buscar">Buscar</string>
+    <string name="txt_label_logradouro">Logradouro</string>
+    <string name="txt_label_complemento">Complemento</string>
+    <string name="txt_label_bairro">Bairro</string>
+    <string name="txt_label_uf">UF</string>
+</resources>

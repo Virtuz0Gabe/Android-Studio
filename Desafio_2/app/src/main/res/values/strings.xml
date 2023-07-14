@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Desafio_2</string>
+    <string name="btn_prosseguir">Prosseguir</string>
+    <string name="edit_text_name"></string>
+    <string name="edit_name_hint">Digite seu nome</string>
+    <string name="edit_name_label">Nome</string>
+    <string name="txt_name_field">Incompativel</string>
+    <string name="bem_vindo">Seja Bem Vindo</string>
+</resources>

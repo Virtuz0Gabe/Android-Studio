@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Desafio_3</string>
+
+    <string name="questao">Questão</string>
+    <string name="txt_label_numero_questao">Questão Número 1 de 5</string>
+    <string name="txt_enunciado">O Android é baseado em qual sistema operacional?</string>
+    <string name="btn_pular">PULAR</string>
+    <string name="txt_resumo_label">Resumo da tentativa</string>
+    <string name="txt_acertos_label">Número de acertos</string>
+    <string name="txt_erros_label">Número de Erros</string>
+
+    <string name="txt_pulados_progress">Questões puladas</string>
+    <string name="txt_acertos_progress">Questões corretas</string>
+    <string name="txt_erros_progress">Questões incorretas</string>
+
+</resources>
